@@ -23,3 +23,4 @@ So, despite all this, I will become a developer.
 ## English level
 A2 (Pre-Intermediate)
 ## Interests
+Technology, design and architecture, cars, motorcycles, politics, history, world order.
