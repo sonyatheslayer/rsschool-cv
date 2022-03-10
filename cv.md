@@ -10,11 +10,11 @@ indecisive, weak-tempered, restless, self-critical,
 anxious and ... self-confident.
 So, despite all this, I will become a developer.
 ## Hard skills
-- HTML (Basic)
-- CSS (Basic)
-- Git (Basic)
+- HTML
+- CSS
+- Git Basic
 ## Code example
-
+Coming soon...
 ## Education
 - Belarusian National Technical University,
   Civil Engineer
