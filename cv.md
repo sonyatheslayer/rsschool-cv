@@ -21,4 +21,5 @@ So, despite all this, I will become a developer.
 - R.S. School. JS/Frontend development
   course (Stage 0) - in progress
 ## English level
+A2 (Pre-Intermediate)
 ## Interests
