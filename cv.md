@@ -10,6 +10,9 @@ indecisive, weak-tempered, restless, self-critical,
 anxious and ... self-confident.
 So, despite all this, I will become a developer.
 ## Hard skills
+- HTML (Basic)
+- CSS (Basic)
+- Git (Basic)
 ## Code example
 ## Experience
 ## Education
