@@ -5,7 +5,7 @@
 - Location: Minsk, Belarus
 - Phone: +375 (25) 793 39 03
 - Email: sonyatheslayer21@gmail.com
-- GitHub profile: [sonyatheslayer] (https://github.com/sonyatheslayer)
+- GitHub profile: https://github.com/sonyatheslayer
 
 
 ## **About me**
