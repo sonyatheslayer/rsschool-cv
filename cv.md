@@ -14,7 +14,11 @@ So, despite all this, I will become a developer.
 - CSS (Basic)
 - Git (Basic)
 ## Code example
-## Experience
+
 ## Education
+- Belarusian National Technical University,
+  Civil Engineer
+- R.S. School. JS/Frontend development
+  course (Stage 0) - in progress
 ## English level
 ## Interests
